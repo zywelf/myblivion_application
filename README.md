@@ -30,3 +30,7 @@ Come altra alternativa ho provato ad utilizzare la schermata di blocco default d
 ## #5 Aggiornamento
 
 L'unica alternativa rimasta è quella di usare un messaggio di allerta se l'utente tenta di uscire dall'app prima che il timer finisca. Dato che in ogni modo l'utente può accedere alle app, nella schermata disclaimer dell'app avvertirò l'utente di poter selezionare una playlist a suo piacimento dall'app che desidera prima che il timer inizi.
+
+## #6 Aggiornamento
+
+Alla fine, l'app avrà come timer di default 1h non modificabile, come "player musicale" ha YouTube che potranno riprodurre solo con schermo accesso però le altre funzionalità di chiamata di emergenza, fotocamera e bluetooth sono sempre disponibili.
